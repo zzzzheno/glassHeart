@@ -1,5 +1,5 @@
 <template>
-  <div
+  <q-header
     class="fixed-top flex justify-center bg-white"
     style="box-shadow: 0px 6px 8px rgba(78, 52, 46, 0.1)"
   >
@@ -27,7 +27,7 @@
         </q-list>
       </q-btn-dropdown>
     </q-toolbar>
-  </div>
+  </q-header>
 </template>
 
 <script setup>

@@ -1,10 +1,7 @@
 <template>
-  <q-layout view="lHh Lpr">
+  <q-layout>
     <MainHeader></MainHeader>
-    <q-page-container
-      class="flex justify-center bg-brown-1"
-      style="margin-top: 124px"
-    >
+    <q-page-container class="bg-brown-1">
       <router-view />
     </q-page-container>
     <MainFooter> </MainFooter>
