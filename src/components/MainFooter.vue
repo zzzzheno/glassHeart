@@ -6,7 +6,7 @@
     <q-toolbar class="col-3 justify-between q-py-lg">
       <a href="/">
         <img
-          src="/src/assets/logo_white.svg"
+          src="/static/logo_white.svg"
           alt="玻璃心選物"
           style="width: 140px"
         />

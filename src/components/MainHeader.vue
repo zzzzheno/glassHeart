@@ -6,7 +6,7 @@
     <q-toolbar class="q-py-lg justify-between" style="max-width: 1440px">
       <a href="/">
         <img
-          src="/src/assets/logo_brown.svg"
+          src="/static/logo_brown.svg"
           alt="玻璃心選物"
           style="width: 100px"
         />
@@ -21,7 +21,9 @@
         <q-list>
           <q-item clickable v-close-popup @click="onItemClick">
             <q-item-section>
-              <q-item-label class="text-body1 text-brown-9">碗盤</q-item-label>
+              <q-item-label href="/" class="text-body1 text-brown-9"
+                >碗盤</q-item-label
+              >
             </q-item-section>
           </q-item>
         </q-list>
