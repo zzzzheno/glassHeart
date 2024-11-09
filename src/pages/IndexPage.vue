@@ -30,7 +30,7 @@
           <q-card-section>
             <div class="text-subtitle2 text-brown">碗盤</div>
             <div class="text-h6 text-brown-9 q-mt-xs q-mb-md">
-              日本製美濃燒花形盤 11cm
+              日本製美濃燒花形盤・11cm・五色
             </div>
             <q-btn
               size="md"
@@ -69,14 +69,17 @@
                 <div>
                   <div class="text-subtitle2 text-brown">碗盤</div>
                   <div class="text-h6 text-brown-9 q-my-xs">
-                    日本製美濃燒花形盤 11cm
+                    日本製美濃燒花形盤・11cm・五色
                   </div>
                 </div>
                 <div class="text-h6 text-red-7">
                   $230<span class="text-subtitle2">/個</span>
                 </div>
               </div>
-              <div class="text-body1 text-justify text-grey-7">
+              <div class="text-subtitle2 text-grey-6">
+                黃 / 橄欖綠 / 深藍 / 白 / 黑
+              </div>
+              <div class="q-my-md text-body1 text-justify text-grey-7">
                 精緻的復古風格小盤，邊緣設計有優雅的波浪形狀，並帶有細緻的紋理，增添觸感與質感。這些小盤適合用來放置小物、首飾或當作餐桌上的點心盤，不僅實用，還能為空間增添自然古典的美感。無論是用於家居裝飾還是送禮，都能展現獨特的品味。
               </div>
               <div class="flex column items-center">
@@ -85,7 +88,8 @@
                   ratio="1"
                   width="100px"
                 ></q-img>
-                <div class="text-subtitle2 text-grey-7">掃描QRcode聯繫</div>
+                <div class="text-subtitle2 text-grey-6">掃描QRcode聯繫</div>
+                <div class="text-subtitle2 text-grey-6">line@ID：@927xfcpa</div>
               </div>
             </q-card-section>
             <q-separator />
